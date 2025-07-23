@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "d23c11ce1dbb492d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2da1a2b69230c11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c32410a2d1e54412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TRIFFID_Tianyi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bb8e5c8129b155e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9511f00ed10a40d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TRIFFID_Tianyi.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46ca7f0627a5b863",
+    "type": "split",
+    "children": [
+      {
+        "id": "d258bae0425def9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f50f30c98152eedb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57792bb01c0d660e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Overview",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da1879d909c7eb88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b41e817c3fb7702",
+    "type": "split",
+    "children": [
+      {
+        "id": "68c0946480dff66d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26127aa2e7f38a7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TRIFFID_Tianyi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f84a2968654fc6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TRIFFID_Tianyi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f86efa5831cced71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3541a01b0de04d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TRIFFID_Tianyi.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c32410a2d1e54412",
+  "lastOpenFiles": [
+    "code/LOTKA2A.dk",
+    "code",
+    "img",
+    "img/LOTKA2A.dk.png",
+    "TRIFFID_Tianyi.md",
+    "README.md"
+  ]
+}
